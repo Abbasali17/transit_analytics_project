@@ -11,3 +11,6 @@ Thumbs.db
 
 # Secrets - we will add later if needed
 # .env
+
+data/static/MBTA_GTFS.zip
+data/static/gtfs_extracted_mbta/
